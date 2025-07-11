@@ -23,7 +23,7 @@ A serious case of **target leakage** was discovered during model development.
 
 ## 🔬 Deep Exploratory Data Analysis (EDA)
 
-We performed detailed EDA to understand the dataset:
+I performed detailed EDA to understand the dataset:
 
 - **Distributions:** Visualized histograms and boxplots of `price`, `minimum nights`, `reviews`, etc.
 - **Categorical Analysis:** Used countplots and boxplots on `room type`, `cancellation policy`, `neighbourhood group`, etc.
@@ -54,7 +54,7 @@ Performed comprehensive data preparation:
 
 ## 📚 Learning & Future Precaution
 
-### What We Learned:
+### What i Learned:
 - **Always inspect correlations** between features and the target early.
 - Watch for **business-derived features** that indirectly encode the target.
 - **Don’t trust very high performance scores blindly** — validate them logically.
